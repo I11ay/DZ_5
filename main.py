@@ -8,3 +8,6 @@ third_digit = int(number - first_digit * 100 - second_digit * 10)
 reversed_number = int(str(third_digit) + str(second_digit) + str(first_digit))
 print(reversed_number)
 """
+фыапфаы
+
+фап
